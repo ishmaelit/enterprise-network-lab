@@ -39,4 +39,4 @@ This project simulates a multi-site enterprise network using VLAN segmentation, 
 ![Routing](screenshots/routing-table.png)
 
 ### Connectivity Tests
-![Ping](screenshots/ping-tests.png)
+![Ping](screenshots/ping-test.png)
